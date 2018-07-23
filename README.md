@@ -11,4 +11,4 @@
         彷徨
 '''
 
-[我的个人网站](lichangsong.win)
+[我的个人网站](http://lichangsong.win)
